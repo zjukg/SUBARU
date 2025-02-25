@@ -5,10 +5,9 @@
 ## 🌟 Overview
 ![](images/subaru.png)
 
-
 ## 💻 Data preparation
 
-- We have provide the data in the [Google Drive](https://drive.google.com/file/d/1zprwx8X2E4r498iUZZob9afYhoPDT24j/view?usp=sharing). You need to download the datasets and put them in the `data/` path.
+- We have provide the data and pre-trained embeddings in the [Google Drive](https://drive.google.com/drive/folders/1qgvLddB6fT9DEO64zevXTeWrSo8ARHTH?usp=sharing). You need to download the datasets and put them in the `data/` path.
 
 ## 📕 Training & Test
 
